@@ -7,4 +7,6 @@
 
     <string name="texto_contador">Interruptor accionado: %1$d veces</string>
 
+    <string name="switch_modo_noche">Activar Modo Noche</string>
+
 </resources>
