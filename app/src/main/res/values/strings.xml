@@ -4,8 +4,6 @@
     <string name="estado_luz_apagada">Luz: APAGADA</string>
     <string name="estado_luz_encendida">Luz: ENCENDIDA</string>
     <string name="btn_interruptor">INTERRUPTOR</string>
-    <string name="btn_panico_text">ACTIVAR ALARMA DE PÁNICO</string>
-    <string name="toast_alerta_panico">¡¡ALARMA ENVIADA A LA CENTRAL DE EMERGENCIAS!!</string>
 
     <string name="texto_contador">Interruptor accionado: %1$d veces</string>
 
